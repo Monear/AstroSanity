@@ -1,0 +1,1 @@
+# Blank Astro Sanity setup
